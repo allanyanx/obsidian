@@ -1,0 +1,7 @@
+# Ignorar el espacio de trabajo (cambia cada vez que haces clic en Obsidian)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
