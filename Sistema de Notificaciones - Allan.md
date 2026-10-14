@@ -1,1 +1,0 @@
-Mi parte se basa en aportar a los archivos que detectan
