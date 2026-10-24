@@ -36,6 +36,14 @@
 
 ![[Pasted image 20261023195326.png]]
 
+![[Pasted image 20261023201409.png]]
+
+![[Pasted image 20261023201535.png]]
+
+### Diapositiva de Tarea
+
+![[Pasted image 20261023201650.png]]
+
 
 
 
