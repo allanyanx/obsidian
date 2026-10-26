@@ -1,13 +1,13 @@
 ## Etapa 1 — Dart (semanas 1–6, 60 h)
 
-|Semana|Módulos|Contenido|Entregable|
-|---|---|---|---|
-|1|1–2|Fundamentos y null safety|15 ejercicios cortos en DartPad|
-|2|3–4|Funciones y colecciones|Procesar una lista de datos con `map`/`where`/`fold`|
-|3|5|POO completa: clases, herencia, mixins, extensiones|Modelar un dominio (p. ej. biblioteca)|
-|4|6–8|Records, patterns, genéricos, errores|Refactorizar la semana 3 con `sealed` y `switch`|
-|5|9–10|Asincronía, streams, isolates, pub|Script que consume una API y guarda en archivo|
-|6|—|**Proyecto:** gestor de tareas en consola|Repositorio con lints sin avisos|
+| Semana | Módulos | Contenido                                           | Entregable                                           |
+| ------ | ------- | --------------------------------------------------- | ---------------------------------------------------- |
+| 1      | 1–2     | Fundamentos y null safety                           | 15 ejercicios cortos en DartPad                      |
+| 2      | 3–4     | Funciones y colecciones                             | Procesar una lista de datos con `map`/`where`/`fold` |
+| 3      | 5       | POO completa: clases, herencia, mixins, extensiones | Modelar un dominio (p. ej. biblioteca)               |
+| 4      | 6–8     | Records, patterns, genéricos, errores               | Refactorizar la semana 3 con `sealed` y `switch`     |
+| 5      | 9–10    | Asincronía, streams, isolates, pub                  | Script que consume una API y guarda en archivo       |
+| 6      | —       | **Proyecto:** gestor de tareas en consola           | Repositorio con lints sin avisos                     |
 
 ## Etapa 2 — Flutter básico (semanas 7–13, 70 h)
 
